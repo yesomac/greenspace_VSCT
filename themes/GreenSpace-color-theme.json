@@ -14,7 +14,7 @@
 		"tab.activeBackground": "#002523",
 		"tab.inactiveBackground": "#00282F",
 		"tab.hoverBackground": "#002523",//----
-		"tab.activeBorder": "#00282F",
+		"tab.activeBorder": "#002523",
 		"tab.activeForeground": "#fff",
 		"tab.activeBorderTop": "#00adcc", //55447f
 		"tab.border": "#00282F",
@@ -135,8 +135,8 @@
 		// "breadcrumb.foreground": "#2b2b2b",
 
 		"menu.foreground": "#d6f5e1",
-		"menubar.selectionBackground": "#043616",
-		"menubar.selectionForeground": "#6cd893"
+		"menubar.selectionBackground": "#002523",
+		"menubar.selectionForeground": "#9af0eb"
 	},
 	"tokenColors": [
 		{

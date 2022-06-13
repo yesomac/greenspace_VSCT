@@ -11,10 +11,10 @@
     "statusBar.debuggingBackground": "#002523",
     "sideBarSectionHeader.background": "#011c20",
     "sideBarSectionHeader.foreground": "#ddd",
-    "tab.activeBackground": "#002523",
+    "tab.activeBackground": "#011c20",
     "tab.inactiveBackground": "#002523",
     "tab.hoverBackground": "#002523", //----
-    "tab.activeBorder": "#002523",
+    "tab.activeBorder": "#011c20",
     "tab.activeForeground": "#fff",
     "tab.activeBorderTop": "#00adcc", //55447f
     "tab.border": "#002523",
@@ -134,7 +134,7 @@
     "breadcrumb.foreground": "#cdcdcd",
 
     "menu.foreground": "#d6f5e1",
-    "menubar.selectionBackground": "#043616",
+    "menubar.selectionBackground": "#011c20",
     "menubar.selectionForeground": "#6cd893"
   },
   "tokenColors": [

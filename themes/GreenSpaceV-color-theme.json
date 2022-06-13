@@ -11,10 +11,10 @@
     "statusBar.debuggingBackground": "#070f00",
     "sideBarSectionHeader.background": "#091301",
     "sideBarSectionHeader.foreground": "#ddd",
-    "tab.activeBackground": "#070f00",
+    "tab.activeBackground": "#091301",
     "tab.inactiveBackground": "#070f00",
     "tab.hoverBackground": "#070f00",
-    "tab.activeBorder": "#070f00",
+    "tab.activeBorder": "#091301",
     "tab.activeForeground": "#fff",
     "tab.activeBorderTop": "#026e26",
     "tab.border": "#070f00",
@@ -68,7 +68,7 @@
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B",
     "editor.hoverHighlightBackground": "#022c07d8", //676e02ab
-    "editorHoverWidget.background": "#19253f",
+    "editorHoverWidget.background": "#022b0f",
     "list.activeSelectionBackground": "#366e02ab",
     "sideBar.border": "#091301",
     "sideBarSectionHeader.border": "#366e023f",
@@ -132,8 +132,8 @@
     "breadcrumb.foreground": "#cdcdcd",
 
     "menu.foreground": "#d6f5e1",
-    "menubar.selectionBackground": "#043616",
-    "menubar.selectionForeground": "#6cd893"
+    "menubar.selectionBackground": "#172e03",
+    "menubar.selectionForeground": "#bdec94"
   },
   "tokenColors": [
     {

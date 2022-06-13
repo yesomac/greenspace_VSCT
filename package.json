@@ -29,27 +29,42 @@
             {
                 "label": "GreenSpace II",
                 "uiTheme": "vs-dark",
-                "path": "./themes/GreenSpaceIV-color-theme.json"
+                "path": "./themes/GreenSpaceIX-color-theme.json"
             },
             {
                 "label": "GreenSpace III",
                 "uiTheme": "vs-dark",
-                "path": "./themes/GreenSpaceV-color-theme.json"
+                "path": "./themes/GreenSpaceIV-color-theme.json"
             },
             {
                 "label": "GreenSpace IV",
                 "uiTheme": "vs-dark",
-                "path": "./themes/GreenSpaceII-color-theme.json"
+                "path": "./themes/GreenSpaceV-color-theme.json"
             },
             {
                 "label": "GreenSpace V",
                 "uiTheme": "vs-dark",
-                "path": "./themes/GreenSpace-color-theme.json"
+                "path": "./themes/GreenSpaceII-color-theme.json"
             },
             {
                 "label": "GreenSpace VI",
                 "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-color-theme.json"
+            },
+            {
+                "label": "GreenSpace VII",
+                "uiTheme": "vs-dark",
                 "path": "./themes/GreenSpaceIII-color-theme.json"
+            },
+            {
+                "label": "GreenSpace VIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceVII-color-theme.json"
+            },
+            {
+                "label": "GreenSpace  IX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceVIII-color-theme.json"
             },
             {
                 "label": "GreenSpace(Light)",
@@ -64,8 +79,8 @@
         "email": "yesdev19@gmail.com"
     },
     "repository": {
-        "url": "",
-        "type": ""
+        "url": "https://github.com/yesomac/greenspace_VSCT.git",
+        "type": "git"
     },
     "publisher": "YesCode",
     "license": "MIT"
