@@ -1,0 +1,72 @@
+{
+    "name": "greenspace",
+    "displayName": "greenspace",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "GreenSpace",
+        "GreenSpace II",
+        "GreenSpace III",
+        "GreenSpace IV",
+        "GreenSpace V",
+        "GreenSpace VI",
+        "GreenSpace(Light)"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GreenSpace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceVI-color-theme.json"
+            },
+            {
+                "label": "GreenSpace II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceIV-color-theme.json"
+            },
+            {
+                "label": "GreenSpace III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceV-color-theme.json"
+            },
+            {
+                "label": "GreenSpace IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceII-color-theme.json"
+            },
+            {
+                "label": "GreenSpace V",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-color-theme.json"
+            },
+            {
+                "label": "GreenSpace VI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpaceIII-color-theme.json"
+            },
+            {
+                "label": "GreenSpace(Light)",
+                "uiTheme": "vs",
+                "path": "./themes/GreenSpace-light-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "",
+        "type": ""
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
