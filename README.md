@@ -1,7 +1,11 @@
 # GreenSpace
 
 **New Theme**
+## GreenSpace Sober
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_sober.png?raw=true)
+
+## GreenSpace Sober II
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober2.png?raw=true)
 
 ---
 
