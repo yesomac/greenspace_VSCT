@@ -72,6 +72,11 @@
                 "path": "./themes/GreenSpace-sober-color-theme.json"
             },
             {
+                "label": "GreenSpace Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-II-color-theme.json"
+            },
+            {
                 "label": "GreenSpace(Light)",
                 "uiTheme": "vs",
                 "path": "./themes/GreenSpace-light-color-theme.json"
