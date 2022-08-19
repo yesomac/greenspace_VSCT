@@ -7,6 +7,18 @@
 ## GreenSpace Sober II
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober2.png?raw=true)
 
+## GreenSpace Sober III
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober3.png?raw=true)
+
+## GreenSpace Sober IV
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober4.png?raw=true)
+
+## GreenSpace Sober V
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober5.png?raw=true)
+
+## GreenSpace Sober VI
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober6.png?raw=true)
+
 ---
 
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_1.png?raw=true)
@@ -14,20 +26,6 @@
 ## GreenSpace II
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_2..png?raw=true)
 
-## GreenSpace III
-![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_2.png?raw=true)
-
-## GreenSpace IV
-![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_3.png?raw=true)
-
-## GreenSpace V
-![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_4.png?raw=true)
-
-## GreenSpace VI
-![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_5.png?raw=true)
-
-## GreenSpace VII
-![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_6.png?raw=true)
 
 ## GreenSpace VIII
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_8.png?raw=true)
