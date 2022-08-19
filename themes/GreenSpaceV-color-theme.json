@@ -73,7 +73,7 @@
     "sideBar.border": "#091301",
     "sideBarSectionHeader.border": "#366e023f",
     "activityBar.border": "#070f00",
-    "activityBar.activeBorder": "#366e0279",
+    "activityBar.activeBorder": "#7cfa06",
     "menu.border": "#026e26",
     "panel.border": "#026e26",
     "titleBar.border": "#070f00",
@@ -133,7 +133,10 @@
 
     "menu.foreground": "#d6f5e1",
     "menubar.selectionBackground": "#172e03",
-    "menubar.selectionForeground": "#bdec94"
+    "menubar.selectionForeground": "#bdec94",
+
+    //new
+    "icon.foreground": "#7cfa06"
   },
   "tokenColors": [
     {

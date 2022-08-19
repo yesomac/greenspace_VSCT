@@ -74,9 +74,9 @@
     "sideBar.border": "#000a0a",//030b22
     "sideBarSectionHeader.border": "#000a0a",
     "activityBar.border": "#000a0a",
-    "activityBar.activeBorder": "#000a0a",//000a0a
+    "activityBar.activeBorder": "#839deb",//000a0a
     "menu.border": "#0d1d4d",
-    "panel.border": "#00ffb3",
+    "panel.border": "#00ffb365",
     "titleBar.border": "#000a0a",
     "tab.hoverBorder": "#000a0a",
     "statusBar.border": "#000a0a",
@@ -139,7 +139,10 @@
     "terminal.findMatchBackground": "#0b35b3",
     "terminal.findMatchBorder": "#2051e4",
     "terminal.findMatchHighlightBackground": "#07184b",
-    "terminalOverviewRuler.cursorForeground": "#fff"
+    "terminalOverviewRuler.cursorForeground": "#fff",
+
+    //
+    "icon.foreground": "#839deb"
     
   },
   "tokenColors": [

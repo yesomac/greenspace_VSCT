@@ -73,7 +73,7 @@
     "sideBar.border": "#011809",
     "sideBarSectionHeader.border": "#366e023f",
     "activityBar.border": "#011312",
-    "activityBar.activeBorder": "#366e0279",
+    "activityBar.activeBorder": "#7cfa06",
     "menu.border": "#366e02ab",
     "panel.border": "#366e02ab",
     "titleBar.border": "#011312",
@@ -132,7 +132,10 @@
     "breadcrumb.foreground": "#cdcdcd",
     "menu.foreground": "#d6f5e1",
     "menubar.selectionBackground": "#032524",
-    "menubar.selectionForeground": "#6cd893"
+    "menubar.selectionForeground": "#6cd893",
+
+    //
+    "icon.foreground": "#7cfa06"
   },
   "tokenColors": [
     {

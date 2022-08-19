@@ -136,7 +136,9 @@
 
 		"menu.foreground": "#d6f5e1",
 		"menubar.selectionBackground": "#002523",
-		"menubar.selectionForeground": "#9af0eb"
+		"menubar.selectionForeground": "#9af0eb",
+
+		"icon.foreground": "#03fff2"
 	},
 	"tokenColors": [
 		{

@@ -73,7 +73,7 @@
     "sideBar.border": "#004D40",
     "sideBarSectionHeader.border": "#004D40",
     "activityBar.border": "#004D40",
-    "activityBar.activeBorder": "#03584a",
+    "activityBar.activeBorder": "#01fad0",
     "menu.border": "#219690",
     "panel.border": "#03968e",
     "titleBar.border": "#004D40",
@@ -115,7 +115,7 @@
     "editorError.foreground": "#ff0000",
     "editorHoverWidget.border": "#067260",
     "editorHoverWidget.foreground": "#fff",
-    "editorOverviewRuler.border": "#1d2731", //55447f
+    "editorOverviewRuler.border": "#004d40", //55447f
     "editorSuggestWidget.border": "#067563",
     "editorSuggestWidget.focusHighlightForeground": "#fdcb6f",
     "editorSuggestWidget.foreground": "#f5d9eb",
@@ -134,7 +134,10 @@
 
     "menu.foreground": "#d6f5e1",
     "menubar.selectionBackground": "#043616",
-    "menubar.selectionForeground": "#6cd893"
+    "menubar.selectionForeground": "#6cd893",
+
+    //
+    "icon.foreground": "#01fad0"
   },
   "tokenColors": [
     {

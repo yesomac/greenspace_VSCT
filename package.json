@@ -77,6 +77,26 @@
                 "path": "./themes/GreenSpace-sober-II-color-theme.json"
             },
             {
+                "label": "GreenSpace Sober III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-III-color-theme.json"
+            },
+            {
+                "label": "GreenSpace Sober IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-IV-color-theme.json"
+            },
+            {
+                "label": "GreenSpace Sober V",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-V-color-theme.json"
+            },
+            {
+                "label": "GreenSpace Sober VI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-VI-color-theme.json"
+            },
+            {
                 "label": "GreenSpace(Light)",
                 "uiTheme": "vs",
                 "path": "./themes/GreenSpace-light-color-theme.json"
