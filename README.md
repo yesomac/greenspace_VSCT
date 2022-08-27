@@ -19,6 +19,9 @@
 ## GreenSpace Sober VI
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober6.png?raw=true)
 
+## GreenSpace Sober Light
+![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greensober-li.png?raw=true)
+
 ---
 
 ![This is an image](https://github.com/yesomac/greenspace_VSCT/blob/main/img/greenspace_1.png?raw=true)
