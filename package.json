@@ -2,7 +2,7 @@
     "name": "greenspace",
     "displayName": "greenspace",
     "description": "",
-    "version": "0.0.6",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -12,11 +12,6 @@
     "keywords": [
         "Themes",
         "GreenSpace",
-        "GreenSpace II",
-        "GreenSpace III",
-        "GreenSpace IV",
-        "GreenSpace V",
-        "GreenSpace VI",
         "GreenSpace(Light)"
     ],
     "contributes": {
@@ -72,6 +67,11 @@
                 "path": "./themes/GreenSpace-sober-color-theme.json"
             },
             {
+                "label": "GreenSpace Sober 23",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-sober-23-color-theme.json"
+            },
+            {
                 "label": "GreenSpace Sober S",
                 "uiTheme": "vs-dark",
                 "path": "./themes/GreenSpace-sober-S-color-theme.json"
@@ -115,6 +115,11 @@
                 "label": "GreenSpace(Light)",
                 "uiTheme": "vs",
                 "path": "./themes/GreenSpace-light-color-theme.json"
+            },
+            {
+                "label": "GreenSpace 23(Light)",
+                "uiTheme": "vs",
+                "path": "./themes/GreenSpace-23-light-color-theme.json"
             }
         ]
     },
