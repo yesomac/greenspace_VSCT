@@ -120,6 +120,11 @@
                 "label": "GreenSpace 23(Light)",
                 "uiTheme": "vs",
                 "path": "./themes/GreenSpace-23-light-color-theme.json"
+            },
+            {
+                "label": "GreenSpace Matrix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GreenSpace-matrix-light-color-theme.json"
             }
         ]
     },
